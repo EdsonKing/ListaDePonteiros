@@ -14,7 +14,7 @@ int crescente(const void *a, const void *b) {
 }
  
 int main () {
-  int n, x;
+  int n;
   printf("Indique o numero de valores: ");
 	scanf("%d", &n);
   float vet[n]; 
